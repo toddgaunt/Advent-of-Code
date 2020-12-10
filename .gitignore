@@ -15,6 +15,7 @@
 !*module.mk
 !*input
 !*problem
+!*answers
 
 # Whitelist specific files
 !/LICENSE
